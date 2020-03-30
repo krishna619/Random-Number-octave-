@@ -1,5 +1,5 @@
 // GENERATE RANDOM NUMBER WITHOUT USING RAND() FUNCTION.(GNU OCTAVE)
-//1.)OPEN OCTAVE
+//1.)OPEN TERMINAL
 //2.)TYPE "mkoctfile --link-stand-alone randomnumber.cc -o randomnumber"
 //3.) Make sure liboctave pkg is already installed on your linux system.
 
